@@ -1,17 +1,21 @@
 body {
 	background-color: lightgrey ;
-	color: orange ;
+	color: purple ;
 	text-align: center ;
 }
 
 h1 {
-	color: lightblue;
+	color: grey;
 }
 
+h2 {
+	color : darkblue;
+}
 img{
 	width: 40% ;
 }
 
 h2 {
 	color : purple;
+	width: 15% ;
 }
